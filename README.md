@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ertugrultatar
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 📫 How to reach me: ertug.tatar@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
